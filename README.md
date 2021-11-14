@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter Catalog App
 
 A new Flutter project.
 
